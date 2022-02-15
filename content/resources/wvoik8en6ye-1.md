@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/50e23809db0c4c5d94f900a16e2e929a_WVOIk8en6YE.pdf
+file: /media/courses/8-821-string-theory-and-holographic-duality-fall-2014/50e23809db0c4c5d94f900a16e2e929a_WVOIk8en6YE.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 50e23809-db0c-4c5d-94f9-00a16e2e929a

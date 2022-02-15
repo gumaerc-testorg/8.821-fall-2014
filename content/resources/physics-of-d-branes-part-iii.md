@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Physics of D-branes, Part III'
 uid: 5034e67e-16bb-1549-3407-b5c7feda6a7d
 video_files:
   archive_url: https://archive.org/download/MIT8.821F14/MIT8_821F14_lec15_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/c898a5a2d5315bd3af5eadd5c017eeed_-mrxN8XcQOQ.vtt
+  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/c898a5a2d5315bd3af5eadd5c017eeed_-mrxN8XcQOQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/-mrxN8XcQOQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/90503e88063729b53fd99ab12a424d7b_-mrxN8XcQOQ.pdf
+  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/90503e88063729b53fd99ab12a424d7b_-mrxN8XcQOQ.pdf
 video_metadata:
   youtube_id: -mrxN8XcQOQ
 ---

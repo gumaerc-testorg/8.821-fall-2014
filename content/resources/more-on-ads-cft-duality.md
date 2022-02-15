@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: More on AdS / CFT Duality'
 uid: cafab34d-c908-d893-bec3-9549eaa66296
 video_files:
   archive_url: https://archive.org/download/MIT8.821F14/MIT8_821F14_lec17_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/2b6ff99db647516daee15f99ba6981b5_0fChZwU1zEc.vtt
+  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/2b6ff99db647516daee15f99ba6981b5_0fChZwU1zEc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0fChZwU1zEc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/4ca91de39f8a568e51642d5af5802f1f_0fChZwU1zEc.pdf
+  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/4ca91de39f8a568e51642d5af5802f1f_0fChZwU1zEc.pdf
 video_metadata:
   youtube_id: 0fChZwU1zEc
 ---

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/41fe9729c5f00f05b58c94e8b65d0314_1OGZCt58GLc.srt
+file: /media/courses/8-821-string-theory-and-holographic-duality-fall-2014/41fe9729c5f00f05b58c94e8b65d0314_1OGZCt58GLc.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 41fe9729-c5f0-0f05-b58c-94e8b65d0314

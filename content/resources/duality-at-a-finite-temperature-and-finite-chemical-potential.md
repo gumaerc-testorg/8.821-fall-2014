@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 23: Duality at a Finite Temperature and Finite Chemical Potential'
 uid: b803ce03-4290-80a8-2107-fc336aa067aa
 video_files:
   archive_url: https://archive.org/download/MIT8.821F14/MIT8_821F14_lec23_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/73ef973d3afc50e7a21779ce86ab9723_raP-0nqnF_A.vtt
+  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/73ef973d3afc50e7a21779ce86ab9723_raP-0nqnF_A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/raP-0nqnF_A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/94f00077cfdcd521b561dc2e9200e36d_raP-0nqnF_A.pdf
+  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/94f00077cfdcd521b561dc2e9200e36d_raP-0nqnF_A.pdf
 video_metadata:
   youtube_id: raP-0nqnF_A
 ---

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: d931b0d4-5cc4-967c-bb04-efceefc643e6
 ---
@@ -70,20 +72,6 @@ Course Team Roles
 ### Teaching Assistant
 
 *   Provided solutions to and graded students’ problem sets
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Four rows of narrow grey tables with wooden chairs. Blackboards at the back and side of the room]({{< resource_file 0cbf6a30-5866-fe21-7e5d-917dab4591d1 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with a seating capacity of 40 and moveable furniture.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

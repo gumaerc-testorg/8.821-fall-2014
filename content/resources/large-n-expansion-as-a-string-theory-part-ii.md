@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Large-N expansion as a String Theory, Part II'
 uid: c3b4d48d-928a-7b7c-4c36-226083422779
 video_files:
   archive_url: https://archive.org/download/MIT8.821F14/MIT8_821F14_lec09_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/cafc12e893c05e0fbf029b9067ec27e1_M_8UajiNlDg.vtt
+  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/cafc12e893c05e0fbf029b9067ec27e1_M_8UajiNlDg.vtt
   video_thumbnail_file: https://img.youtube.com/vi/M_8UajiNlDg/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-and-holographic-duality-fall-2014/895f3c42c163b8ab8868acdf5b796bc3_M_8UajiNlDg.pdf
+  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/895f3c42c163b8ab8868acdf5b796bc3_M_8UajiNlDg.pdf
 video_metadata:
   youtube_id: M_8UajiNlDg
 ---
