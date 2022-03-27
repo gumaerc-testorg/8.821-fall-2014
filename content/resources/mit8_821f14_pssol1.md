@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0287ebf6-a68d-7bd9-9554-33f603873ccb
 resourcetype: Document
 title: MIT8_821F14_pssol1.pdf
 uid: 81e4ec84-aa6a-691f-7624-0f04032400ce
