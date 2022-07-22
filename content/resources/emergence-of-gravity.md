@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu discusses the concept of emergent gravity, and proves the Weinberg-witten no go theorem which forbids existence of massless spin-2 particles. The beginning of the lecture is devoted to course information.
 
 **Instructor:** Hong Liu
+

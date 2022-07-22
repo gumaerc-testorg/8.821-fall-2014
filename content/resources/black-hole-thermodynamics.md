@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu first discusses four laws of black hole mechanics, and then relates them to laws of thermodynamics. This shows that a black hole is a thermal object with not only temperature, but also entropy. He also outlines the black hole information paradox.
 
 **Instructor:** Hong Liu
+

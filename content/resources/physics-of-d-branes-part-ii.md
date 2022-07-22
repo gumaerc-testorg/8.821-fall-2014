@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu continues discussion of physics of D-branes, including low energy effective action, tension of D-branes, low energy effective theory of multiple coincidental D-branes, which are described by a non-Abelian gauge theory.
 
 **Instructor:** Hong Liu
+

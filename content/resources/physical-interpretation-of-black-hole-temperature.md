@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu gives a physical interpretation of the black hole temperature, and similarly the temperature experienced by an accelerated observer in Minkowski spacetime, in terms of entanglement of the vacuum state of a quantum field theory in these spacetimes.
 
 **Instructor:** Hong Liu
+

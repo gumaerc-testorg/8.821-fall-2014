@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu connects the topological expansion of a matrix field theory in 1 / N to the perturbative expansion of a string theory. The structure of perturbative expansion of a string theory is explained from first principle.
 
 **Instructor:** Hong Liu
+

@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu wraps up the mathematical connection between 1 / N expansion of a large N matrix field theory with the perturbative expansion of a string theory. The second half of this lecture starts Part 2 of the course, the first topic of which is an introduction to string theory.
 
 **Instructor:** Hong Liu
+

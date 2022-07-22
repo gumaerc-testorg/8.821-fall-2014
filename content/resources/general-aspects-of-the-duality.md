@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture begins Part 3 of the course: Duality Toolbox. In this lecture, Prof. Liu discusses general aspects of the duality, including the IR / UV connection and matching of symmetries, parameters and spectrum between two sides of the duality.
 
 **Instructor:** Hong Liu
+

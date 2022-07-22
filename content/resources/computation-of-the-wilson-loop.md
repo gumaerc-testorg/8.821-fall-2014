@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu first continues the discussion of the computation of the Wilson loop started in last lecture. He introduces the prescription for the computation and then uses it to calculate the Coulomb potential between a heavy quark and anti-quark in the N=4 SYM theory. In the second half, he discusses the generalization of the duality to a boundary system at a finite temperature.
 
 **Instructor:** Hong Liu
+

@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu first discusses the causal structure of black hole geometry, and that of a closely related spacetime called Rindler spacetime. He shows that a black hole has a nonzero temperature to an observer at infinity. He also derives a closely related phenomenon: In Minkowski spacetime, an accelerated observer feels a temperature proportional to her acceleration.
 
 **Instructor:** Hong Liu
+

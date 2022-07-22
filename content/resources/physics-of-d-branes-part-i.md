@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu introduces the definition of D-branes, finds spectrum of open strings on D-branes, which can be interpreted as excitations of D-branes. Among excitations are massless vector fields whose low energy effective actions are given by a U(1) gauge theory.
 
 **Instructor:** Hong Liu
+

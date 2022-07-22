@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu discusses how to calculate the entanglement entropy of a boundary system using the AdS gravity. He gives a holographic proof of the strong Sub-additivity conditions of the entanglement entropy, and discusses a simple example.
 
 **Instructor:** Hong Liu
+

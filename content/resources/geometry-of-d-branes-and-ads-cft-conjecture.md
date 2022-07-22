@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu first discusses near-horizon geometry of a D3-brane and then consider a limit which decouples the asymptotically flat region of the geometry. The same limit applied to low energy theory of D-branes then gives the AdS / CFT duality.
 
 **Instructor:** Hong Liu
+

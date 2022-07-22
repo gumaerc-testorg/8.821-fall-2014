@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In the first part of this lecture, Prof. Liu explains physical motivation behind the holographic principle, and a formulation of the principle. In the second part, he starts a new topic on the large N limit of a non-Abelian gauge theory.
 
 **Instructor:** Hong Liu
+
