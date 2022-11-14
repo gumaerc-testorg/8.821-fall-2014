@@ -1,13 +1,19 @@
 ---
 content_type: page
+description: This section provides citations and links to several suggested books
+  and literature reviews.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 355b1ce8-1567-4d76-bacd-0ade78eacb4b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-There is no required textbook, but there are several suggested books and literature reviews. [Lecture Notes]({{< baseurl >}}/pages/lecture-notes) are available for each lecture.
+There is no required textbook, but there are several suggested books and literature reviews. {{% resource_link 725a6055-78d0-a6f7-9969-b3af54e85732 "Lecture Notes" %}} are available for each lecture.
 
 *   Casalderrey-Solana, Jorge. _Gauge / String Duality, Hot QCD and Heavy Ion Collisions_. Cambridge University Press, 2014. ISBN: 9781107022461. \[Preview with [Google Books](http://books.google.com/books?id=WDeNAwAAQBAJ&pg=PAfrontcover)\]  
     A comprehensive discussion of applications of holographic duality to physics of the quark-gluon plasma.  
