@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about course topics, prerequisites, reading materials, assignments, and grading
+  policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 711390b2-73dd-4ef1-3e01-d7b44309fa3f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -14,7 +21,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_[8.323 Relativistic Quantum Field Theory I](/courses/8-323-relativistic-quantum-field-theory-i-spring-2008/), [8.324 Relativistic Quantum Field Theory II](/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/)_
+_[8.323 Relativistic Quantum Field Theory I](/courses/8-323-relativistic-quantum-field-theory-i-spring-2008), [8.324 Relativistic Quantum Field Theory II](/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010)_
 
 More about the Homepage Image
 -----------------------------
@@ -34,7 +41,7 @@ This course aims to bring students to the forefront of this exciting field. Prio
 Textbook
 --------
 
-There is no required textbook, but there are several suggested books and reviews listed in the [readings]({{< baseurl >}}/pages/readings) section. [Lecture notes]({{< baseurl >}}/pages/lecture-notes) are available for every class.
+There is no required textbook, but there are several suggested books and reviews listed in the {{% resource_link 355b1ce8-1567-4d76-bacd-0ade78eacb4b "readings" %}} section. {{% resource_link 725a6055-78d0-a6f7-9969-b3af54e85732 "Lecture notes" %}} are available for every class.
 
 Problem Sets
 ------------
