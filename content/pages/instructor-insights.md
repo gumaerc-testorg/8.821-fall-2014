@@ -1,46 +1,49 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: d931b0d4-5cc4-967c-bb04-efceefc643e6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+## Course Overview
 
-Course Overview
----------------
-
-This page focuses on the course _8.821 String Theory and Holographic Duality_ as it was taught by Professor Hong Liu in Fall 2014.
+This page focuses on the course *8.821 String Theory and Holographic Duality* as it was taught by Professor Hong Liu in Fall 2014.
 
 During the last fifteen years, string theory has revealed a surprising and deep connection between gravity and many-body physics under the name of holographic duality. The duality brings together many previously seemingly unconnected subjects including quantum gravity/black holes, QCD at extreme conditions, exotic condensed matter systems, and quantum information in an extremely elegant yet still mysterious manner. It also opens up new powerful approaches for studying these subjects from completely different perspectives. This course brings students to the forefront of this exciting field.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Understand that holographic duality is a rapidly developing field
-*   Gain an introduction to holography and general aspects of duality
-*   Learn about holographic renormalization group flows
-*   Gain insight into many-body systems
-*   Learn what questions in the area of quantum gravity are still outstanding
-*   Apply understanding of holographic duality in problem solving
+- Understand that holographic duality is a rapidly developing field
+- Gain an introduction to holography and general aspects of duality
+- Learn about holographic renormalization group flows
+- Gain insight into many-body systems
+- Learn what questions in the area of quantum gravity are still outstanding
+- Apply understanding of holographic duality in problem solving
 
 ### Possibilities for Further Study/Careers
 
 This course prepares students to complete doctoral thesis research.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   _[8.323 Relativistic Quantum Field Theory I](/courses/8-323-relativistic-quantum-field-theory-i-spring-2008/pages/index.htm)_
-*   _[8.324 Relativistic Quantum Field Theory II](/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/pages/index.htm)_
+- [*8.323 Relativistic Quantum Field Theory I*](/courses/8-323-relativistic-quantum-field-theory-i-spring-2008)
+- [*8.324 Relativistic Quantum Field Theory II*](/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010)
 
 ### Requirements Satisfied
 
-_8.821 String Theory and Holographic Duality_ can be applied toward a [doctoral degree in Physics](http://web.mit.edu/physics/current/graduate/doctoral.html#program).
+*8.821 String Theory and Holographic Duality* can be applied toward a [doctoral degree in Physics](http://web.mit.edu/physics/current/graduate/doctoral.html#program).
 
 ### Offered
 
@@ -48,12 +51,11 @@ On a variable schedule
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "I found it very rewarding to introduce students to holographic duality because it’s a field that is still rapidly developing." "—Hong Liu" >}}
 
-_Below, Professor Hong Liu describes various aspects of how he taught 8.821 String Theory and Holographic Duality in Fall 2014._
+*Below, Professor Hong Liu describes various aspects of how he taught 8.821 String Theory and Holographic Duality in Fall 2014.*
 
 I found it very rewarding to introduce students to holographic duality because it’s a field that is still rapidly developing. It was exciting to bring students to the forefront of this active research arena. I think students found it to be an enriching experience, as well.
 
@@ -61,36 +63,35 @@ One challenge I faced in teaching the course was organizing the materials in an 
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
-Course Team Roles
------------------
+## Course Team Roles
 
 ### Main Instructor
 
-*   Planned and delivered lectures
-*   Responded to student questions during lectures
+- Planned and delivered lectures
+- Responded to student questions during lectures
 
 ### Teaching Assistant
 
-*   Provided solutions to and graded students’ problem sets
+- Provided solutions to and graded students’ problem sets
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
 - 75% Problem Sets
 - 25% Final Project
 
-
 ### Instructor Insights on Assessment
-I do not give exams in _8.821 String Theory and Holographic Duality_. Rather, I strongly encourage students to ask questions during our class sessions and these questions help me gauge how well they understand the material.
 
-Student Information
--------------------
+I do not give exams in *8.821 String Theory and Holographic Duality*. Rather, I strongly encourage students to ask questions during our class sessions and these questions help me gauge how well they understand the material.
 
-[![24 students took this class in Fall 2014]({{< resource_file d476535e-8ed6-dfb4-b47c-d4e79d69124b >}})]({{< baseurl >}}/resources/24)
+## Student Information
+
+### Enrollment
+
+24 students
 
 ### Breakdown by Year
 
@@ -106,17 +107,14 @@ Typically, students have taken classes in Quantum Field Theories and General Rel
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
 Met 2 times per week for 1.5 hours per session; 27 sessions total.
 
-Out of Class
-------------
+### Out of Class
 
 Out of class, students completed problems sets and worked on their final projects.
