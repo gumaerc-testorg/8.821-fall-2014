@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/fb9ec061609f55bfa89b2352d1daefed_WVOIk8en6YE.vtt
+file_size: 63152
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
