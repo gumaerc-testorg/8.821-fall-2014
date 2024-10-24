@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/8f9a064655785a31959e0d726af79297_jhyWwA_bJ5A.vtt
+file: /ol-ocw-studio-app/courses/8-821-string-theory-and-holographic-duality-fall-2014/8f9a064655785a31959e0d726af79297_jhyWwA_bJ5A.vtt
 file_size: 87623
 file_type: application/x-subrip
 learning_resource_types: []
