@@ -43,7 +43,7 @@ This course prepares students to complete doctoral thesis research.
 
 ### Requirements Satisfied
 
-*8.821 String Theory and Holographic Duality* can be applied toward a [doctoral degree in Physics](http://web.mit.edu/physics/current/graduate/doctoral.html#program).
+*8.821 String Theory and Holographic Duality* can be applied toward a {{% resource_link "4d313783-008e-4e48-98bd-ded74b69d583" "doctoral degree in Physics" %}}.
 
 ### Offered
 
